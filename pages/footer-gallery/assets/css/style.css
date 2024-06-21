@@ -159,7 +159,7 @@
     padding: 0.7rem 10vw;
     align-items: center;
     background: rgb(0, 37, 245);
-    
+
     & .content {
         padding-right: 20rem;
     }
@@ -276,7 +276,6 @@
         }
       }
 
-      
       & > img.company-logo {
         height: 90px;
         padding: 0.2rem 0;
@@ -321,7 +320,7 @@
             font-size: 50px;
             padding: 1.5rem 0;
             color: rgb(226, 204, 3);
-            
+
             &:hover {
                 color: white;
                 transition: all 0.3s;

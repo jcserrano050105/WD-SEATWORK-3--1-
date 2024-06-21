@@ -134,7 +134,6 @@ header.nba-design1 {
   & .company-logo {
     height: 70px;
   }
-  & .navigation {}
     display: flex;
     gap: 1rem;
   }
