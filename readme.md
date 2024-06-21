@@ -4,18 +4,18 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/jcserrano050105/">
+    <img src="./assets/img/bronmeme-removebg-preview.png" alt="Bron" width="130" height="100">
   </a>
-  <h3 align="center">Seatwork 3: Footer & Header</h3>
+  <h3 align="center">Seatwork #3: Footer & Header</h3>
 </div>
 <div align="center">
-  This is for demonstrating skills in HTML and CSS with Multiple Pages, Effects and Container Manipulations. Providing a Different Versions of Headers and Footers.
+  This project is intended to fulfill the requirements for Software Assignment #3 in the "Web Design with Client Scripting" course. By completing this project, you will demonstrate your proficiency in HTML and CSS coding, including the creation of diverse header and footer designs, as well as the implementation of animations
 </div>
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3-Serrano)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Overview
 
-Project demonstrate the coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output.
+For this project, you will demonstrate your coding abilities in HTML and CSS by creating various types of headers and footers, along with implementing animations. This hands-on experience will allow you to apply your knowledge of these technologies and produce a tangible output. By coding different header and footer designs, and incorporating animations, you will gain practical experience in web development, which can be valuable for your future projects or career.
 
 ### Key Components
 - Header Animation
